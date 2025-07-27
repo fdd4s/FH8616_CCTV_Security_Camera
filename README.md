@@ -19,7 +19,7 @@ these scripts are designed to run in linux.
 
 ## Example
 
-    $ ./nvr-loop 192.168.1.200  
+    $ ./nvr-loop.sh 192.168.1.200  
 
 it creates chunks of 1 hour of CCTV recording, and it automatically reconnect if it some network error happens. Press Control+C to exit from script endless loop.
 
