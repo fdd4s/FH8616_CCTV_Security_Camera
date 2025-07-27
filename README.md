@@ -13,6 +13,21 @@ ffmpeg
 
 these scripts are designed to run in linux.  
 
+## Usage
+
+    $ nvr-loop.sh <camera ip address>
+
+## Example
+
+    $ ./nvr-loop 192.168.1.200  
+
+it creates chunks of 1 hour of CCTV recording, and it automatically reconnect if it some network error happens. Press Control+C to exit from script endless loop.
+
+## How to know camera IP adress
+
+Open V360 Pro app, select camera, enter Camera Settings... Device information... and see in "Camera IP" field.
+You must be connected to same network to use these scripts.
+
 ## Related links
 
 https://github.com/pingumacpenguin/FH86XX_Cameras/  
