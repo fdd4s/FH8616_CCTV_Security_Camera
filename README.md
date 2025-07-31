@@ -31,7 +31,7 @@ You must be connected to same network to use these scripts.
 ## Related projects
 
 https://github.com/fdd4s/wifi-analytics
-You can store CCTV recording and WIFI macs addresses to identify same people (same wifi mac address) going to same location several times.
+wifi-analytics allows store all wifi mac addresses of all people in a location with a smartphone with wifi enabled. You can store CCTV recording and WIFI macs addresses in same time and location, to identify same people (same wifi mac address) going to same location several times.
 
 ## Related links
 
