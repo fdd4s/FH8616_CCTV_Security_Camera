@@ -28,6 +28,11 @@ it creates chunks of 1 hour of CCTV recording, and it automatically reconnect if
 Open V360 Pro app, select camera, enter Camera Settings... Device information... and see in "Camera IP" field.
 You must be connected to same network to use these scripts.
 
+## Related projects
+
+https://github.com/fdd4s/wifi-analytics
+You can store CCTV recording and WIFI macs addresses to identify same people (same wifi mac address) going to same location several times.
+
 ## Related links
 
 https://github.com/pingumacpenguin/FH86XX_Cameras/  
